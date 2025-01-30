@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am currently atending CSULB and am in my second year!
+Pronouns: He/Him
+
 
 <!--
 **Matsal214/Matsal214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
