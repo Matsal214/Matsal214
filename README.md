@@ -1,6 +1,5 @@
 ## Hi there 👋
 I am currently atending CSULB and am in my second year!
-Pronouns: He/Him
 
 
 <!--
